@@ -22,7 +22,7 @@ The physics of multi-echo fMRI
 Multi-echo fMRI data is obtained by acquiring multiple echo times (commonly called
 `TEs`_) for each MRI volume during data collection.
 While fMRI signal contains important neural information (termed the blood
-oxygen-level dependent, or `BOLD signal`_,
+oxygen-level dependent, or `BOLD signal`_),
 it also contains "noise" (termed non-BOLD signal) caused by things like
 participant motion and changes in breathing.
 Because the BOLD signal is known to decay at a set rate, collecting multiple
